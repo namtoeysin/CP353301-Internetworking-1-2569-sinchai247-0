@@ -18,3 +18,4 @@ https://drive.google.com/drive/folders/1QSC75-HmOL1FM0PT0zwGKcxPk2WNNOWF
 
 Certificate
 
+https://github.com/namtoeysin/CP353301-Internetworking-1-2569-sinchai247-0/blob/main/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_sinchai-s-kkumail-com_cf031f1e-dd7b-4e4b-bb50-38d0e454fa43.pdf
